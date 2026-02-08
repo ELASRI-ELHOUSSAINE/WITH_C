@@ -1,4 +1,4 @@
-# WITH_C
+# c-stack-linked-list
 
 🔷 **Overview**
 
