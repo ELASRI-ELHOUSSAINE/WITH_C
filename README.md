@@ -1,32 +1,38 @@
 # WITH_C
 
+🔷 **Overview**
+
 Simple stack (pile) implementation in C using a linked list.
 
-## Features
+✅ **Features**
+
 - Create a stack
-- Push/Pop
+- Push / Pop
 - Peek (top)
 - Size and empty checks
 - Print and free the stack
 
-## Project Structure
+🧱 **Project Structure**
+
 - file.h: Stack types and function declarations
 - file.c: Stack implementation
 - main.c: Example usage
 
-## Build
+🛠️ **Build**
+
 Using GCC:
 
 ```
 gcc -Wall -Wextra -O2 -o main main.c file.c
 ```
 
-## Run
+🚀 **Run**
 
 ```
 ./main
 ```
 
-## Notes
+📝 **Notes**
+
 - The stack is LIFO.
 - On empty stack, pop/top exit with an error message.
